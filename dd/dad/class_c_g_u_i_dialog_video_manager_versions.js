@@ -1,0 +1,26 @@
+var class_c_g_u_i_dialog_video_manager_versions =
+[
+    [ "CGUIDialogVideoManagerVersions", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#ab4e1e9c7dc1d6e8c672f92be2053c49b", null ],
+    [ "~CGUIDialogVideoManagerVersions", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a5e82e89acc076dfdc4b8445ae692f5b2", null ],
+    [ "AddSimilarMovieAsVersion", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a21b5828c0daac1e028c966dc64de34cc", null ],
+    [ "AddVideoVersion", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a3afc12cc7869471ccae1909eab1a3d39", null ],
+    [ "AddVideoVersionFilePicker", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a38647506ca870e7090b414bbfdd1b0ca", null ],
+    [ "ChooseVideoAndConvertToVideoVersion", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a421e4ea458a72d4d660ae076e976636f", null ],
+    [ "Clear", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#add9700d89e4b545aa5e3528dcdcecf3d", null ],
+    [ "GetAllOtherMovies", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a2a4e736ed254f44f54a9940261281278", null ],
+    [ "GetHeadingId", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a218a35c3f6877923d71f0160cf432216", null ],
+    [ "GetSimilarMovies", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#aab5f909cbe0d69fab2f630c06a853c40", null ],
+    [ "GetVideoAssetType", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#aab20703c52b70873618eb171c549caa1", null ],
+    [ "ManageVideoVersions", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#aa258e17af11d8671179c54b80bb3989b", null ],
+    [ "OnMessage", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a14d952c342d61d361f521f533e68e3b2", null ],
+    [ "PostProcessList", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a00eac3f98adf9b574ddb8d4319989fcb", null ],
+    [ "ProcessVideoVersion", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a74dc136468e4640ff9ab565bfe07c8fc", null ],
+    [ "Refresh", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a2f437b32466ea2a1a30ac4365a941127", null ],
+    [ "Remove", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#acf82c5e9282cf3899751d99352c8cf60", null ],
+    [ "SetDefault", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#afdaa01035e100f4ec2c5d1ad935ffb95", null ],
+    [ "SetDefaultVideoVersion", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a52ba326455d5996e01d31a1da16b40f7", null ],
+    [ "SetVideoAsset", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a713a0c5325fdf09840d4ff2d081173ff", null ],
+    [ "UpdateButtons", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a9f4a86fad5da201e5f59c4eaf0485ee9", null ],
+    [ "UpdateDefaultVideoVersionSelection", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#a639eefc82cdd4c5aae20d9f5240071fa", null ],
+    [ "m_defaultVideoVersion", "dd/dad/class_c_g_u_i_dialog_video_manager_versions.html#aeef2bf838974d167ddc8a75f4795fe87", null ]
+];

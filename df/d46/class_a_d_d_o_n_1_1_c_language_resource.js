@@ -1,0 +1,25 @@
+var class_a_d_d_o_n_1_1_c_language_resource =
+[
+    [ "CLanguageResource", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a960489b57a5fee06dba1398c5e3d7edf", null ],
+    [ "FindLegacyLanguage", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a08e844af3009949477d7f7af087e6d74", null ],
+    [ "ForceUnicodeFont", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a640cdaa67eceeb38eb3bf05830f5c8eb", null ],
+    [ "GetAddonId", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a4befaa8778e3e56a1ea3841a7cfbdc7c", null ],
+    [ "GetDvdAudioLanguage", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a91afee2e968221b110d7cf17ac05e46b", null ],
+    [ "GetDvdMenuLanguage", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#af748c977901ca5da911f1652aafba48a", null ],
+    [ "GetDvdSubtitleLanguage", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#afcb2037dbcf9b2e3f10db0a7ba4bafdc", null ],
+    [ "GetGuiCharset", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a8b19dd703cbb36a9581ce88798fbaaf8", null ],
+    [ "GetLocale", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a6ae3a791b9f3450bcb77172da43f2d8f", null ],
+    [ "GetSortTokens", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#ace85364ba1bf89626f059f9b9dd04c11", null ],
+    [ "GetSubtitleCharset", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#ad763a1f0fe0d4e63315d780148e778f8", null ],
+    [ "IsAllowed", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a10e56e14f2458fc7fbcf014007bcb30e", null ],
+    [ "IsInUse", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a30b8a864edf5079141e45c264ada768a", null ],
+    [ "OnPostInstall", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a4490cd5ab162374d6181ef0e6e2627d1", null ],
+    [ "m_charsetGui", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#afe43839149746bd2561423ccceb9ba13", null ],
+    [ "m_charsetSubtitle", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#ab6187fbc149e95644bc560ddfc0474a2", null ],
+    [ "m_dvdLanguageAudio", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a3f259dded3bf67a65f55689d6886ccb0", null ],
+    [ "m_dvdLanguageMenu", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a7a9712e19a11663b688142825b16a3c4", null ],
+    [ "m_dvdLanguageSubtitle", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a1f061a985e1f322ffd17fdf413ab230d", null ],
+    [ "m_forceUnicodeFont", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a5c1749c4ec2f709c026ac461b4e741e1", null ],
+    [ "m_locale", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a8c85834c1061b0fdfe344e3542814b11", null ],
+    [ "m_sortTokens", "df/d46/class_a_d_d_o_n_1_1_c_language_resource.html#a51899fb46f4c51a8dffb48d34861ba8e", null ]
+];

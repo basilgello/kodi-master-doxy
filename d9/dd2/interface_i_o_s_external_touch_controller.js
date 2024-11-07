@@ -1,0 +1,25 @@
+var interface_i_o_s_external_touch_controller =
+[
+    [ "createGestureRecognizers", "d9/dd2/interface_i_o_s_external_touch_controller.html#ab6cb44d7f0dce377e2fa243934fe9697", null ],
+    [ "dealloc", "d9/dd2/interface_i_o_s_external_touch_controller.html#aff530f0d20a09f0dc2c2ea16e2eb2702", null ],
+    [ "fadeFromBlack", "d9/dd2/interface_i_o_s_external_touch_controller.html#a268700e6149da60e02703e522c0bf791", null ],
+    [ "fadeToBlack", "d9/dd2/interface_i_o_s_external_touch_controller.html#a610d99d1d1f30172595a391409496894", null ],
+    [ "handleDoubleFingerSingleTap:", "d9/dd2/interface_i_o_s_external_touch_controller.html#af630a6f6276cefea9edb799ede1190fe", null ],
+    [ "handleDoubleSwipeLeft:", "d9/dd2/interface_i_o_s_external_touch_controller.html#af997a5ff4c89df55d7e828c273279b4c", null ],
+    [ "handleSingleFingerSingleLongTap:", "d9/dd2/interface_i_o_s_external_touch_controller.html#a148b47627bfe412fc99009eaf966ac72", null ],
+    [ "handleSingleFingerSingleTap:", "d9/dd2/interface_i_o_s_external_touch_controller.html#a8013f3aeb5e282f99fe64f58e9974a8c", null ],
+    [ "handleSwipeDown:", "d9/dd2/interface_i_o_s_external_touch_controller.html#ab5a83802574c81f364c52a45f6c9db6f", null ],
+    [ "handleSwipeLeft:", "d9/dd2/interface_i_o_s_external_touch_controller.html#a683f77bf42c7d9ca03335b3618b9c166", null ],
+    [ "handleSwipeRight:", "d9/dd2/interface_i_o_s_external_touch_controller.html#abda2a70de1c356c06e7aa72172e94dd5", null ],
+    [ "handleSwipeUp:", "d9/dd2/interface_i_o_s_external_touch_controller.html#aa0c1af735e112bfbea54fe40740c2f8f", null ],
+    [ "init", "d9/dd2/interface_i_o_s_external_touch_controller.html#a2a2fe730fb43050135c6d9f13abb2757", null ],
+    [ "sleepTimerCallback:", "d9/dd2/interface_i_o_s_external_touch_controller.html#a8607d7f9137a85453769bc5b1cd8593a", null ],
+    [ "startSleepTimer", "d9/dd2/interface_i_o_s_external_touch_controller.html#a0bbfefbb3f6d5acf56a93e315bb12771", null ],
+    [ "stopSleepTimer", "d9/dd2/interface_i_o_s_external_touch_controller.html#a7a396ee9b6966002836cd637a39a5060", null ],
+    [ "supportedInterfaceOrientations", "d9/dd2/interface_i_o_s_external_touch_controller.html#ab40a51104e4cbad996d49dd5b5d93a17", null ],
+    [ "viewWillAppear:", "d9/dd2/interface_i_o_s_external_touch_controller.html#ab0c859c309868be1777c20c4ffff8b4c", null ],
+    [ "wakeUpFromSleep", "d9/dd2/interface_i_o_s_external_touch_controller.html#af07a8a09b3ef8e286cf621f88fd7f260", null ],
+    [ "_internalWindow", "d9/dd2/interface_i_o_s_external_touch_controller.html#a25df8b01c9c406754741361a86f66bb8", null ],
+    [ "_sleepTimer", "d9/dd2/interface_i_o_s_external_touch_controller.html#aae0eed8d9a94ddb242909a1ed2bb7a96", null ],
+    [ "_touchView", "d9/dd2/interface_i_o_s_external_touch_controller.html#a32cbdf659e496c393081af7ae6320c57", null ]
+];

@@ -1,0 +1,28 @@
+var class_c_music_library_queue =
+[
+    [ "MusicLibraryJobMap", "df/d35/class_c_music_library_queue.html#aae1cef6ecd01ff3a202b326c8ef9c7ac", null ],
+    [ "MusicLibraryJobs", "df/d35/class_c_music_library_queue.html#afc54d7883517b27d7fed1cde2fc6341d", null ],
+    [ "~CMusicLibraryQueue", "df/d35/class_c_music_library_queue.html#a807f2655099a0f9a7a618f8c70c5d330", null ],
+    [ "CMusicLibraryQueue", "df/d35/class_c_music_library_queue.html#abab365622f3e643757cd69c065859a5c", null ],
+    [ "CMusicLibraryQueue", "df/d35/class_c_music_library_queue.html#a7705aeda9776cc5b5be3e47f7e26e44d", null ],
+    [ "AddJob", "df/d35/class_c_music_library_queue.html#a59d87eeec82e86253d3e0ad9d1357fab", null ],
+    [ "CancelAllJobs", "df/d35/class_c_music_library_queue.html#a21319f92e95b207362ee803952883bb2", null ],
+    [ "CancelJob", "df/d35/class_c_music_library_queue.html#aa4908fe361511fdaf4c62379b3bef44e", null ],
+    [ "CleanLibrary", "df/d35/class_c_music_library_queue.html#ad0c08f8f4d3067909f8ae9a7a95c453c", null ],
+    [ "ExportLibrary", "df/d35/class_c_music_library_queue.html#a6fea537217854e3016c858c8db1c77b8", null ],
+    [ "GetInstance", "df/d35/class_c_music_library_queue.html#a034606818c77abdbfd9a0234bb624c4e", null ],
+    [ "ImportLibrary", "df/d35/class_c_music_library_queue.html#a612718adb8a27296915ddd3253376e23", null ],
+    [ "IsRunning", "df/d35/class_c_music_library_queue.html#a49b81b3109ecf3826861c6be061ab304", null ],
+    [ "IsScanningLibrary", "df/d35/class_c_music_library_queue.html#a6735a23bcd830bb0f047c66f13b5b786", null ],
+    [ "OnJobComplete", "df/d35/class_c_music_library_queue.html#ac4bee5fdf220bd281eb1b4ee3a64871d", null ],
+    [ "operator=", "df/d35/class_c_music_library_queue.html#ad08b1c9271b8fc5a4619a0c398f662c6", null ],
+    [ "Refresh", "df/d35/class_c_music_library_queue.html#af7c6aaab7dbb1c9492d33055ecd31156", null ],
+    [ "ScanLibrary", "df/d35/class_c_music_library_queue.html#a2be21fa1851ffaa9dadb3ee3581e64ab", null ],
+    [ "StartAlbumScan", "df/d35/class_c_music_library_queue.html#ac1581c16c66512d504d4c2fbd346d778", null ],
+    [ "StartArtistScan", "df/d35/class_c_music_library_queue.html#a94ab5bbcc4b57319fdd3718fbcefd9c7", null ],
+    [ "StopLibraryScanning", "df/d35/class_c_music_library_queue.html#ae5b741971dc68ef17f44eaba10c19b86", null ],
+    [ "m_cleaning", "df/d35/class_c_music_library_queue.html#aed95a6c3939cc576c5aee71506b0062b", null ],
+    [ "m_critical", "df/d35/class_c_music_library_queue.html#a3b51c4ef293806d7f7c304633526b57b", null ],
+    [ "m_jobs", "df/d35/class_c_music_library_queue.html#a8f5e527d11e3d6ea52e0f63527f7a300", null ],
+    [ "m_modal", "df/d35/class_c_music_library_queue.html#afa31735214ffda91e6d58b7ac97a525d", null ]
+];

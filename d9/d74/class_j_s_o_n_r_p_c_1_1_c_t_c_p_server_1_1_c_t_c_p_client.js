@@ -1,0 +1,27 @@
+var class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client =
+[
+    [ "CTCPClient", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a28e21877c2590dc7eb5ba2f8379ae554", null ],
+    [ "CTCPClient", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a0bf7e922c7d30638c029825913e99060", null ],
+    [ "~CTCPClient", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a8704e259fd4771f2c6d75e55bc4efd6b", null ],
+    [ "Closing", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a8d0e3f28532e2fb48cb864b77fc5ac50", null ],
+    [ "Copy", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a4b8930c4134af4c51747962cfe26f99c", null ],
+    [ "Disconnect", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#aa44ffd8de6f9a169749b87b9be67aaaf", null ],
+    [ "GetAnnouncementFlags", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a2427efbe80979f52a4fb2aa965471341", null ],
+    [ "GetPermissionFlags", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a82bc123d14ee4e54b67d72d030eb759c", null ],
+    [ "IsNew", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a97e57fd6535fcfc12e36c9c89676afd3", null ],
+    [ "operator=", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a1b6563cb7fd87b6684617186d66904ba", null ],
+    [ "PushBuffer", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#ace4d1eb59c1b40ea347542b7fd3daa28", null ],
+    [ "Send", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#adc88989089cbaa23e450733c27841e13", null ],
+    [ "SetAnnouncementFlags", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#ad520a7f60dd386aeb820a1f411b87b0b", null ],
+    [ "m_addrlen", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#accb74956665df15652e50e4e84a8abd5", null ],
+    [ "m_announcementflags", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#af1e5a530afd381026c04d1e67638720a", null ],
+    [ "m_beginBrackets", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a9a355d654487e620929d2e0f54cad0d8", null ],
+    [ "m_beginChar", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a5b138c5916283f5e20a37abfa4b508ba", null ],
+    [ "m_buffer", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a46e97bb2440ce8bb9c40f0f1600f72e7", null ],
+    [ "m_cliaddr", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#ae96055be71b7fa652823b641e98c954e", null ],
+    [ "m_critSection", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#af633098126300af2e3deb2df5f7206ca", null ],
+    [ "m_endBrackets", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a98ae1dbb18863dca6d5ba7155782c33a", null ],
+    [ "m_endChar", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a05004327e3568279e79f4dde67efdf7b", null ],
+    [ "m_new", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a6783f4feb50c143d6acb8bf0a03c1c6b", null ],
+    [ "m_socket", "d9/d74/class_j_s_o_n_r_p_c_1_1_c_t_c_p_server_1_1_c_t_c_p_client.html#a938d97167c7260854795333a94c966aa", null ]
+];

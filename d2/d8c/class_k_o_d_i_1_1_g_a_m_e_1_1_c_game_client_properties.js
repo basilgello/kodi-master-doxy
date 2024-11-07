@@ -1,0 +1,26 @@
+var class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties =
+[
+    [ "CGameClientProperties", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a670367e27981ff6e06440af22ee4057b", null ],
+    [ "~CGameClientProperties", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#ace01bebbc74e494735988f7b8bb48286", null ],
+    [ "AddProxyDll", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#ab0221f757138066b00acf6a2cac66eb2", null ],
+    [ "GetExtensionCount", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#ad1bf03fa0159b6f4b13ab0b9b6ca3bbb", null ],
+    [ "GetExtensions", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#ab7b51df94313b957857ca9000799075c", null ],
+    [ "GetLibraryPath", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#aa7e3a67c75b3cb8333e9885457bff066", null ],
+    [ "GetProfileDirectory", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a3ebacc580f5c5421f8cbb3ba39d93085", null ],
+    [ "GetProxyAddons", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#acccfaf8ec846b35b59d60f7e4fa9abfb", null ],
+    [ "GetProxyDllCount", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#abc022f90c018687dd5556ef293e7e331", null ],
+    [ "GetProxyDllPaths", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a92179b84ba50254331f005794c539cb5", null ],
+    [ "GetResourceDirectories", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a064a7b15bd113d9bfe3f201b186ca1c8", null ],
+    [ "GetResourceDirectoryCount", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a06686fd272d4b791d05cbb8a36c288a8", null ],
+    [ "HasProxyDll", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a7b33ddf633ba633fa1e472eca3d60db8", null ],
+    [ "InitializeProperties", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#afdad42a9b0db5bfdf0e2a375c2c30f3f", null ],
+    [ "InstallDependencies", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#ad96c41b37fb1853adf1bed74be9a1f64", null ],
+    [ "ReleaseResources", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#ad4997c1878a225d368d082572aa086a8", null ],
+    [ "m_extensions", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a2b59075cb12cec3901d594a5961db259", null ],
+    [ "m_parent", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#aa2e1b45bf1f4fd2bfe5d43df9c54ce14", null ],
+    [ "m_properties", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a175d57c117981f434d2650d7821dba02", null ],
+    [ "m_proxyDllPaths", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a572f026630099631329fe219fa7d94e5", null ],
+    [ "m_resourceDirectories", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#ac4cfb17ce9921261d3ce52db83b58b7f", null ],
+    [ "m_strLibraryPath", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#a4b6b5f7002a83af6eebf36dac2164768", null ],
+    [ "m_strProfileDirectory", "d2/d8c/class_k_o_d_i_1_1_g_a_m_e_1_1_c_game_client_properties.html#ab70a0bb82a8ea2a38c166f1627283dd9", null ]
+];

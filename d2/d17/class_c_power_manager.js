@@ -1,0 +1,28 @@
+var class_c_power_manager =
+[
+    [ "CPowerManager", "d2/d17/class_c_power_manager.html#affd83a11dab5d66f369162537707f37d", null ],
+    [ "~CPowerManager", "d2/d17/class_c_power_manager.html#a47e672635cbf5bbe0b3b8a4a33badb7f", null ],
+    [ "BatteryLevel", "d2/d17/class_c_power_manager.html#abcfaf578851a013465fdb4da507fb926", null ],
+    [ "CanHibernate", "d2/d17/class_c_power_manager.html#a0b6d1d73c65073cfd54737834a503961", null ],
+    [ "CanPowerdown", "d2/d17/class_c_power_manager.html#ada86d6b6c3238dadb416e96c96c15293", null ],
+    [ "CanReboot", "d2/d17/class_c_power_manager.html#a9211389260d082babb5bbafcb174e173", null ],
+    [ "CanSuspend", "d2/d17/class_c_power_manager.html#af631b0d6ecbee4606eb16ddf6826c296", null ],
+    [ "GetPowerSyscall", "d2/d17/class_c_power_manager.html#aaad18a9ece92f61b8f0ded49838272a5", null ],
+    [ "Hibernate", "d2/d17/class_c_power_manager.html#af1718a4d047ee39cd2a87c5ce5ca6b88", null ],
+    [ "Initialize", "d2/d17/class_c_power_manager.html#a92967e0001bdd2035b84a0790a1a1c74", null ],
+    [ "OnLowBattery", "d2/d17/class_c_power_manager.html#adbb26b6effe0d4fb7a7862d007e387b1", null ],
+    [ "OnSleep", "d2/d17/class_c_power_manager.html#ab95f114067d8462a49bcc80df02a5663", null ],
+    [ "OnWake", "d2/d17/class_c_power_manager.html#a5a8b0f586ca756a6b0ddf55a5e929faa", null ],
+    [ "Powerdown", "d2/d17/class_c_power_manager.html#abd8ffe132ddf41678172f545906edfe9", null ],
+    [ "ProcessEvents", "d2/d17/class_c_power_manager.html#a92f58d99ce01ee89094f5f0126d0300d", null ],
+    [ "Reboot", "d2/d17/class_c_power_manager.html#ac031dc23d9223a3a414865a5f7c789e1", null ],
+    [ "RestorePlayerState", "d2/d17/class_c_power_manager.html#a4f65601c32dd8be18037a39b0a652388", null ],
+    [ "SetDefaults", "d2/d17/class_c_power_manager.html#aa41149de77c9106d50b9efbc73b909d5", null ],
+    [ "SettingOptionsShutdownStatesFiller", "d2/d17/class_c_power_manager.html#a45f8944bf2713d20cfbe0b3120c262bf", null ],
+    [ "StorePlayerState", "d2/d17/class_c_power_manager.html#a6b25a23b080b9e7ee44358d261891b0b", null ],
+    [ "Suspend", "d2/d17/class_c_power_manager.html#ab500516e37c85b5e065c420f958fb56f", null ],
+    [ "m_instance", "d2/d17/class_c_power_manager.html#a54785ad1e72637669b7d59be970df4c8", null ],
+    [ "m_lastPlayedFileItem", "d2/d17/class_c_power_manager.html#a87fba89f0169ac9f2e24a555f4915b43", null ],
+    [ "m_lastUsedPlayer", "d2/d17/class_c_power_manager.html#aabbe16a0a52851054ad68da85570fc5a", null ],
+    [ "m_settings", "d2/d17/class_c_power_manager.html#a3ad881760f74ee4709aec8260bf5b0e3", null ]
+];

@@ -1,0 +1,27 @@
+var namespace_w_s_discovery =
+[
+    [ "CClientNotificationSink", "da/d53/class_w_s_discovery_1_1_c_client_notification_sink.html", "da/d53/class_w_s_discovery_1_1_c_client_notification_sink" ],
+    [ "CWSDiscoveryListenerUDP", "db/d25/class_w_s_discovery_1_1_c_w_s_discovery_listener_u_d_p.html", "db/d25/class_w_s_discovery_1_1_c_w_s_discovery_listener_u_d_p" ],
+    [ "CWSDiscoveryPosix", "de/d60/class_w_s_discovery_1_1_c_w_s_discovery_posix.html", "de/d60/class_w_s_discovery_1_1_c_w_s_discovery_posix" ],
+    [ "CWSDiscoveryWindows", "da/db5/class_w_s_discovery_1_1_c_w_s_discovery_windows.html", "da/db5/class_w_s_discovery_1_1_c_w_s_discovery_windows" ],
+    [ "IWSDiscovery", "d3/d79/class_w_s_discovery_1_1_i_w_s_discovery.html", "d3/d79/class_w_s_discovery_1_1_i_w_s_discovery" ],
+    [ "wsd_req_info", "d3/d6a/struct_w_s_discovery_1_1wsd__req__info.html", "d3/d6a/struct_w_s_discovery_1_1wsd__req__info" ],
+    [ "action_tag", "df/d13/namespace_w_s_discovery.html#a750054bad2c7bcf088d948d21635a3a4", null ],
+    [ "address_tag", "df/d13/namespace_w_s_discovery.html#a82740b2ba41302ee98092d902df88d23", null ],
+    [ "bye_body", "df/d13/namespace_w_s_discovery.html#a258ef238c00b876e7768925e54c05af1", null ],
+    [ "computer_tag", "df/d13/namespace_w_s_discovery.html#a0aa0662e3bbcef9f0a23eda232d88ac1", null ],
+    [ "get_msg", "df/d13/namespace_w_s_discovery.html#a894fa5f6012eabe96c233b276cad192c", null ],
+    [ "hello_body", "df/d13/namespace_w_s_discovery.html#a923a2bbd0b36f301accdf35e76cce4ae", null ],
+    [ "msgid_tag", "df/d13/namespace_w_s_discovery.html#a126e11583de587891aea40983660404f", null ],
+    [ "probe_body", "df/d13/namespace_w_s_discovery.html#a974f4ade86d84fec98744c73e1682750", null ],
+    [ "resolve_body", "df/d13/namespace_w_s_discovery.html#ae90da7c74e34edbeff00c680476d0805", null ],
+    [ "soap_msg_templ", "df/d13/namespace_w_s_discovery.html#a59cc84180fcd5883ef95f4495f400c91", null ],
+    [ "types_tag", "df/d13/namespace_w_s_discovery.html#a682b5ad71077d1409a2343072c53283e", null ],
+    [ "WSD_ACT_BYE", "df/d13/namespace_w_s_discovery.html#acceba038e0fca2d27d5df4aa6efaffbb", null ],
+    [ "WSD_ACT_HELLO", "df/d13/namespace_w_s_discovery.html#ac15f3441b42111fa7ab4402c3b03f1e0", null ],
+    [ "WSD_ACT_PROBE", "df/d13/namespace_w_s_discovery.html#a4cf391b11abc5f5d9e759d3d022eeee8", null ],
+    [ "WSD_ACT_PROBEMATCH", "df/d13/namespace_w_s_discovery.html#addff9caf18c3d2aa6a5bd67074d1f691", null ],
+    [ "WSD_ACT_RESOLVE", "df/d13/namespace_w_s_discovery.html#a59cdc64dd4d5e2f2bf4079b0d04ea80d", null ],
+    [ "WSD_ACT_RESOLVEMATCHES", "df/d13/namespace_w_s_discovery.html#ac826ee74bca708b86fcc8336e92ba111", null ],
+    [ "xaddrs_tag", "df/d13/namespace_w_s_discovery.html#a2eca48a459e5e7494c5a7a946626bc07", null ]
+];

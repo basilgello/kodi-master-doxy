@@ -1,0 +1,28 @@
+var class_c_favourites_service =
+[
+    [ "FavouritesUpdated", "d4/d9e/struct_c_favourites_service_1_1_favourites_updated.html", null ],
+    [ "CFavouritesService", "d3/d55/class_c_favourites_service.html#afe578f971f071b0f745d23d0917f6d49", null ],
+    [ "~CFavouritesService", "d3/d55/class_c_favourites_service.html#a3f1e84cc369517f8332ab9407838cb4e", null ],
+    [ "CFavouritesService", "d3/d55/class_c_favourites_service.html#a6e670ab1e6ad259c0305e8fda65d00f3", null ],
+    [ "CFavouritesService", "d3/d55/class_c_favourites_service.html#a960e05fcee7e141f389e6cfc2c43ec93", null ],
+    [ "CFavouritesService", "d3/d55/class_c_favourites_service.html#a2088cd8f0f67355bb90db98bc6f40bb3", null ],
+    [ "AddOrRemove", "d3/d55/class_c_favourites_service.html#ae091ad796a9ada94a32a08ce82fc9bc4", null ],
+    [ "Events", "d3/d55/class_c_favourites_service.html#ab6ce3c33d332f9c74832712b7aa0f0dc", null ],
+    [ "GetAll", "d3/d55/class_c_favourites_service.html#a3633a2f1052bbd8b3bf0121ce7f68109", null ],
+    [ "GetFavourite", "d3/d55/class_c_favourites_service.html#a56d26dc27688af534895c0e0904ee53b", null ],
+    [ "IsFavourited", "d3/d55/class_c_favourites_service.html#a8c1912801c4120512487dd489cb1a8f5", null ],
+    [ "OnUpdated", "d3/d55/class_c_favourites_service.html#af461a6726c38e095c62a294fb587bf19", null ],
+    [ "operator=", "d3/d55/class_c_favourites_service.html#a751dfdbee0a2a3debd3ef68db084f613", null ],
+    [ "operator=", "d3/d55/class_c_favourites_service.html#a6d76d64e83dd10817ce633af0235f31a", null ],
+    [ "Persist", "d3/d55/class_c_favourites_service.html#aefbf11714c9c30378ee5ebe9365492b6", null ],
+    [ "RefreshFavourites", "d3/d55/class_c_favourites_service.html#a19b0639aa6e2c91b4252cab397057b56", null ],
+    [ "ReInit", "d3/d55/class_c_favourites_service.html#a88bc3eb3f80b82f8a1ce48975252f06d", null ],
+    [ "ResolveFavourite", "d3/d55/class_c_favourites_service.html#a8782010c9b3b0767f1f7ab873a6f02d6", null ],
+    [ "Save", "d3/d55/class_c_favourites_service.html#a52683d6976fd0cd80fe1cca37ef38856", null ],
+    [ "Size", "d3/d55/class_c_favourites_service.html#adc67581bbe43a36fb2d70f9dc8f11ee2", null ],
+    [ "m_criticalSection", "d3/d55/class_c_favourites_service.html#a20a0503e9ab4ac45052a2ba8ca27789e", null ],
+    [ "m_events", "d3/d55/class_c_favourites_service.html#a0d5cdd3febd7cc7c5788f4f0b44aacbb", null ],
+    [ "m_favourites", "d3/d55/class_c_favourites_service.html#ab7f60a43fb93b9f253e6ff9b71a5f8d6", null ],
+    [ "m_targets", "d3/d55/class_c_favourites_service.html#a43d49dae896817a3a6fda4ba214ac8c1", null ],
+    [ "m_userDataFolder", "d3/d55/class_c_favourites_service.html#a19c0ab7fd873cca6dbc3872ffa01319c", null ]
+];

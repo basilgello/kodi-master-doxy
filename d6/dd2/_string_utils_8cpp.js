@@ -1,0 +1,28 @@
+var _string_utils_8cpp =
+[
+    [ "FORMAT_BLOCK_SIZE", "d6/dd2/_string_utils_8cpp.html#a75a504adea88bbfccdc271ce36e319bb", null ],
+    [ "compareWchar", "d6/dd2/_string_utils_8cpp.html#a747419b5280a12b0449e4a7f08ae9137", null ],
+    [ "GetCollationWeight", "d6/dd2/_string_utils_8cpp.html#a06a50022cd80d87a654a3252df35cdfd", null ],
+    [ "isspace_c", "d6/dd2/_string_utils_8cpp.html#a0765be82a12b669953ece63325fb204f", null ],
+    [ "IsUTF8Letter", "d6/dd2/_string_utils_8cpp.html#af98faa3f19c9488133026ae4d66938b8", null ],
+    [ "NumberFromSS", "d6/dd2/_string_utils_8cpp.html#a110924f9169157033c2b010cfdd7dab0", null ],
+    [ "tolowerUnicode", "d6/dd2/_string_utils_8cpp.html#aa9288e9343e4612d7eb2082a8478acf2", null ],
+    [ "toupperUnicode", "d6/dd2/_string_utils_8cpp.html#a814375cbe81ad061038ceb284467f0a7", null ],
+    [ "transformString", "d6/dd2/_string_utils_8cpp.html#aa0f3a16cfb7879ef515334f2c62f6bd0", null ],
+    [ "UTF8ToUnicode", "d6/dd2/_string_utils_8cpp.html#afad3834da61bdd6cdf4e6da3e2333e45", null ],
+    [ "ADDON_GUID_RE", "d6/dd2/_string_utils_8cpp.html#a1629054e0eaf173d5b129a97acf53072", null ],
+    [ "plane00", "d6/dd2/_string_utils_8cpp.html#adf6cd920e9a4736c32cb9550bf061ad4", null ],
+    [ "plane01", "d6/dd2/_string_utils_8cpp.html#a4123f8153041131f67ed19844d559680", null ],
+    [ "plane02", "d6/dd2/_string_utils_8cpp.html#a8b6274930eca7c88e9e178dc51def786", null ],
+    [ "plane03", "d6/dd2/_string_utils_8cpp.html#a2c0f4d6cd0d3bd51b494f0e48094b081", null ],
+    [ "plane04", "d6/dd2/_string_utils_8cpp.html#a503b18330850a0023f61554c2585bdba", null ],
+    [ "plane05", "d6/dd2/_string_utils_8cpp.html#aacd158abc16a69be8f09abcc028024cd", null ],
+    [ "plane1E", "d6/dd2/_string_utils_8cpp.html#a1a3bd8c15291e13117d6f8a647f01ede", null ],
+    [ "plane1F", "d6/dd2/_string_utils_8cpp.html#a602053abae4bfd1bce78a4ce5c561078", null ],
+    [ "plane21", "d6/dd2/_string_utils_8cpp.html#a837a537103d32fe52bc93d10acf95d8f", null ],
+    [ "plane24", "d6/dd2/_string_utils_8cpp.html#a0cd9d1918ae9b0978ce922311298e752", null ],
+    [ "planeFF", "d6/dd2/_string_utils_8cpp.html#a0835cbdec3b7d9a0d2f81b7dca0ae6d4", null ],
+    [ "planemap", "d6/dd2/_string_utils_8cpp.html#a99f8867c85faf44c50035993156a727f", null ],
+    [ "unicode_lowers", "d6/dd2/_string_utils_8cpp.html#a35cac8b36c4e0923cc4144456462e3d9", null ],
+    [ "unicode_uppers", "d6/dd2/_string_utils_8cpp.html#a80f4e77e5705ffaafd7f02503d0d8586", null ]
+];

@@ -1,0 +1,27 @@
+var class_v_a_a_p_i_1_1_c_v_a_a_p_i_context =
+[
+    [ "CVAAPIContext", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a1b7f33263a151f0a16207fe624020307", null ],
+    [ "CheckSuccess", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a3add30c1f87f73ec6f1647e7f3b4f553", null ],
+    [ "Close", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a350b53bd726125707db874fba9bce5c9", null ],
+    [ "CreateConfig", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#ab5336fb9c6de5fb06a51d25c80084e93", null ],
+    [ "CreateContext", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a239dfb4263b067497e9f35ddfa345320", null ],
+    [ "DestroyContext", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#aecad1f197772360549e6a874a2869034", null ],
+    [ "EnsureContext", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a97c73d6c7871ef75cb994b5a7fb62ca2", null ],
+    [ "FFReleaseBuffer", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a0825d15e87eb8d06012e931481a4dc57", null ],
+    [ "GetAttrib", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a07c711b1b050bef14beee940fde8ba12", null ],
+    [ "GetDisplay", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a432b5f72b3392556d46a5bced4a715ee", null ],
+    [ "IsValidDecoder", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#adb9d1225a1d26edc285033ecaa1bb502", null ],
+    [ "QueryCaps", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#ad83f52d58dc431673d7dd659ba08aafb", null ],
+    [ "Release", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a513377720b28e9e77fdfbbabeecb0df5", null ],
+    [ "SetVaDisplayForSystem", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a764e336d7419641bda8b5f637145841a", null ],
+    [ "SetValidDRMVaDisplayFromRenderNode", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a68b122aebb73bf98e5519452fba4fe88", null ],
+    [ "SupportsProfile", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a399ccf6d426997ed0aa3d0d7a24703d7", null ],
+    [ "m_context", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#ae7ce1bdb914d16021458bf83b2bea356", null ],
+    [ "m_decoders", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a31df4d97f5c88adab394487908c236e9", null ],
+    [ "m_display", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#ae265ad89624f5d5394be1762d42ea458", null ],
+    [ "m_profileCount", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a4fa36ac51b1933c4aac955f68c116100", null ],
+    [ "m_profiles", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a2e13da7c0a0a2750d57412758e633d9d", null ],
+    [ "m_refCount", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#ad027946c75b102e7df44f7c5bcb2d654", null ],
+    [ "m_renderNodeFD", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a5d7ddf99a11f35b823848faec3cc8ba6", null ],
+    [ "m_section", "d2/db3/class_v_a_a_p_i_1_1_c_v_a_a_p_i_context.html#a6e5015f85a5add859e525c54348e93fb", null ]
+];

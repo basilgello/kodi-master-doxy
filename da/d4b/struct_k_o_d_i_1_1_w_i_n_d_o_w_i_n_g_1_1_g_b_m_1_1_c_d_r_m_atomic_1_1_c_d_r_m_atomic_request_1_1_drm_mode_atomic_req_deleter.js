@@ -1,0 +1,4 @@
+var struct_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_g_b_m_1_1_c_d_r_m_atomic_1_1_c_d_r_m_atomic_request_1_1_drm_mode_atomic_req_deleter =
+[
+    [ "operator()", "da/d4b/struct_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_g_b_m_1_1_c_d_r_m_atomic_1_1_c_d_r_m_atomic_request_1_1_drm_mode_atomic_req_deleter.html#affd56142c7415ce7addeda6f83e9d0f3", null ]
+];

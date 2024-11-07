@@ -1,0 +1,4 @@
+var structanonymous__namespace_02_win_system_wayland_8cpp_03_1_1_win_system_wayland_protocol_1_1_msg_buffer_scale =
+[
+    [ "scale", "d8/d85/structanonymous__namespace_02_win_system_wayland_8cpp_03_1_1_win_system_wayland_protocol_1_1_msg_buffer_scale.html#a53b2bca2aa768044d7b8fbb12ad1ddbe", null ]
+];

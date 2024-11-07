@@ -1,0 +1,25 @@
+var _scraper_8cpp =
+[
+    [ "ADDON::ContentMapping", "d0/d8b/struct_a_d_d_o_n_1_1_content_mapping.html", "d0/d8b/struct_a_d_d_o_n_1_1_content_mapping" ],
+    [ "CheckScraperError", "d6/d7a/_scraper_8cpp.html#a4c00c5ae741b4169d9cde4851fcb13b9", null ],
+    [ "DetailsFromFileItem", "d6/d7a/_scraper_8cpp.html#a6e43ff85faf16d3a5b47fb5e1e19cb45", null ],
+    [ "DetailsFromFileItem< CAlbum >", "d6/d7a/_scraper_8cpp.html#aa93ab046ac7e95bc9b512feb11dc8379", null ],
+    [ "DetailsFromFileItem< CArtist >", "d6/d7a/_scraper_8cpp.html#aea80e5119f91329dbf1767332444433f", null ],
+    [ "DetailsFromFileItem< CVideoInfoTag >", "d6/d7a/_scraper_8cpp.html#a80ce8e537938ff13f817a79fedcd2f4b", null ],
+    [ "FromArray", "d6/d7a/_scraper_8cpp.html#a9fb5c58bc9b4ad6d62a87c9bd64c7263", null ],
+    [ "FromFileItem", "d6/d7a/_scraper_8cpp.html#a9058cc31596c4928ed5c8dfc0ea6bfb0", null ],
+    [ "FromFileItem< CMusicAlbumInfo >", "d6/d7a/_scraper_8cpp.html#a2552587c1c4f927e28933e2781d56610", null ],
+    [ "FromFileItem< CMusicArtistInfo >", "d6/d7a/_scraper_8cpp.html#a07b10798ccc2934821fd7c5d38135d83", null ],
+    [ "FromFileItem< CScraperUrl >", "d6/d7a/_scraper_8cpp.html#ab20b81445d0a5e6622eea0e3cfbf9eaf", null ],
+    [ "FromString", "d6/d7a/_scraper_8cpp.html#a110573aec0a83a6f64d3cb748d40a972", null ],
+    [ "ParseFanart", "d6/d7a/_scraper_8cpp.html#a6ff505360c96afcf27349348f032faa7", null ],
+    [ "ParseThumbs", "d6/d7a/_scraper_8cpp.html#ad85d5a1b3ee4789c7918041d7b9cbeca", null ],
+    [ "PythonDetails", "d6/d7a/_scraper_8cpp.html#a28832c20aafff1e9ea41818aae8f9b6e", null ],
+    [ "PythonDetails", "d6/d7a/_scraper_8cpp.html#a9ad6c937f042ef163cb14527501a8573", null ],
+    [ "PythonFind", "d6/d7a/_scraper_8cpp.html#a9997e045954a76b834d80cd75d8c463d", null ],
+    [ "RelevanceSortFunction", "d6/d7a/_scraper_8cpp.html#ac5ffd24b209450ea063c4afddca2b8b5", null ],
+    [ "ScraperTypeFromContent", "d6/d7a/_scraper_8cpp.html#af70375b0762da95b2591361c2830bd52", null ],
+    [ "TranslateContent", "d6/d7a/_scraper_8cpp.html#a8ce359ea737645f03fe02e1f3e48e494", null ],
+    [ "TranslateContent", "d6/d7a/_scraper_8cpp.html#a2999546980725c79eedb05f7e63abce2", null ],
+    [ "content", "d6/d7a/_scraper_8cpp.html#a9f0e2db53007c64fb4f760b3f3026ab6", null ]
+];

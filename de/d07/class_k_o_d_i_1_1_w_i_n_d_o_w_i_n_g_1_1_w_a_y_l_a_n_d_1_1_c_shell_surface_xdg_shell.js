@@ -1,0 +1,25 @@
+var class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell =
+[
+    [ "CShellSurfaceXdgShell", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#ae04646f0453c0054e7df77bfa0faca13", null ],
+    [ "~CShellSurfaceXdgShell", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#ace857a727e37063bbcabe73a414bcb99", null ],
+    [ "AckConfigure", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#a39bc4ebd7fbf920a4362e3e7114b3de0", null ],
+    [ "Initialize", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#a37d4247dcc51fcf64b5efa1a482d376c", null ],
+    [ "SetFullScreen", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#a871c1af4278d7e17d9a5b61119cb2555", null ],
+    [ "SetMaximized", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#a7caf0e1ce72bfaf20409e650abd2b4af", null ],
+    [ "SetMinimized", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#a53f812158c3c8e20b789585a204a9b25", null ],
+    [ "SetWindowed", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#aa0d4071b321e6f6b184c6952871a1c74", null ],
+    [ "SetWindowGeometry", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#aaae2e05f89f2e18587097132d254778f", null ],
+    [ "ShowShellContextMenu", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#afcd44e14ecdbb49073f6292b49f31a03", null ],
+    [ "StartMove", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#aceec4e1878d97c68dd15287cd236c615", null ],
+    [ "StartResize", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#a592579b726914bc0117c6aee6207af1c", null ],
+    [ "TryCreate", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#aec08de25f5528ce587070c02d63f4423", null ],
+    [ "UnsetMaximized", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#aad51210398c855eae011b35805bf6e9f", null ],
+    [ "m_configuredSize", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#a5c6425cb1b356016fe148e4cbf6c7b1e", null ],
+    [ "m_configuredState", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#af4375c042bf83fe5a8555c542cfc20d7", null ],
+    [ "m_display", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#a9a3840be6eb14d6982ee49cfd7324ce4", null ],
+    [ "m_handler", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#ac4fb0297358b974055bf94b8a4dba819", null ],
+    [ "m_shell", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#ad664b5a600d244f3afc2bc97942048e7", null ],
+    [ "m_surface", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#afa74f7d486bd69eb2c883828b3350b23", null ],
+    [ "m_xdgSurface", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#a31c193b25ca129f6ad34216be13cadf7", null ],
+    [ "m_xdgToplevel", "de/d07/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_shell_surface_xdg_shell.html#ab3ab7f3e19033131aff0534037b601a6", null ]
+];

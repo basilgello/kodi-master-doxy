@@ -1,0 +1,25 @@
+var class_c_win32_power_syscall =
+[
+    [ "CWin32PowerSyscall", "d7/d6b/class_c_win32_power_syscall.html#af0e012588dd2dfff656148676ac3b347", null ],
+    [ "~CWin32PowerSyscall", "d7/d6b/class_c_win32_power_syscall.html#a493f053b04790a0f5ab3c2bd6ff8075e", null ],
+    [ "BatteryLevel", "d7/d6b/class_c_win32_power_syscall.html#ac9916d2279ed717e26746d677ead62fa", null ],
+    [ "CanHibernate", "d7/d6b/class_c_win32_power_syscall.html#af68243db67dfe6b5a6e5c84c26e3255c", null ],
+    [ "CanPowerdown", "d7/d6b/class_c_win32_power_syscall.html#a7323866fbc9032a702bf0be531e398ce", null ],
+    [ "CanReboot", "d7/d6b/class_c_win32_power_syscall.html#a82807df501160bab2aff82938bae058d", null ],
+    [ "CanSuspend", "d7/d6b/class_c_win32_power_syscall.html#a991218ac129ae453e082caac9df0c55b", null ],
+    [ "CreateInstance", "d7/d6b/class_c_win32_power_syscall.html#a17c977848d26564051784a2dccefa422", null ],
+    [ "Hibernate", "d7/d6b/class_c_win32_power_syscall.html#a4fd5ed08c43eb70f9d5dcccf9d505408", null ],
+    [ "IsSuspending", "d7/d6b/class_c_win32_power_syscall.html#aef1be2b3ca59316a76cd36c64868d2df", null ],
+    [ "Powerdown", "d7/d6b/class_c_win32_power_syscall.html#ad477407d371a1a154ab45201d4daafce", null ],
+    [ "PumpPowerEvents", "d7/d6b/class_c_win32_power_syscall.html#a1e8dacfa2efd1556cfc06b4008bec34c", null ],
+    [ "Reboot", "d7/d6b/class_c_win32_power_syscall.html#a02ec1e52e2292a8fc9c13fccc327532a", null ],
+    [ "Register", "d7/d6b/class_c_win32_power_syscall.html#a699870d30a63e36376499b33febde7f2", null ],
+    [ "SetOnResume", "d7/d6b/class_c_win32_power_syscall.html#a593bd5f7bf1ee9a1ae8cb49947fff615", null ],
+    [ "SetOnSuspend", "d7/d6b/class_c_win32_power_syscall.html#a07ce206fa1a714763bbef24eb19b29ff", null ],
+    [ "Suspend", "d7/d6b/class_c_win32_power_syscall.html#ad85e4ce48c65cf3ca2884b62e1496bd0", null ],
+    [ "m_capabilities", "d7/d6b/class_c_win32_power_syscall.html#aeb35ec6261f6393d61579022e67f9e11", null ],
+    [ "m_hascapabilities", "d7/d6b/class_c_win32_power_syscall.html#a2ce78ee6c1dae35414a3875253647f00", null ],
+    [ "m_OnResume", "d7/d6b/class_c_win32_power_syscall.html#ad6d3de9bcadd6234ef170f6d36904947", null ],
+    [ "m_OnSuspend", "d7/d6b/class_c_win32_power_syscall.html#afe50227eb4ef486a17235208b10f9058", null ],
+    [ "m_worker", "d7/d6b/class_c_win32_power_syscall.html#af7bcfabe07a29e9183de3325b7946ba1", null ]
+];

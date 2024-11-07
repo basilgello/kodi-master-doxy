@@ -1,0 +1,27 @@
+var class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator =
+[
+    [ "CButtonAction", "d9/dc0/struct_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator_1_1_c_button_action.html", "d9/dc0/struct_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator_1_1_c_button_action" ],
+    [ "buttonMap", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a9da3116bfcd4b0ae890c7a4b8b47fb30", null ],
+    [ "CButtonTranslator", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a057b36719860f647a1f0cfe0401cad9d", null ],
+    [ "CButtonTranslator", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#ac4b90e2a219917910730a763a36d5004", null ],
+    [ "~CButtonTranslator", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a9e90cd4356e7fc10b433eae7aaf6e48a", null ],
+    [ "AddDevice", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#ab4161a559961c8a228d0ee06e99c09f9", null ],
+    [ "Clear", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#ac377ad9a7eec20ce36ddb703e51d6244", null ],
+    [ "GetAction", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a26e2c1fe91956416effe925937c2fcb2", null ],
+    [ "GetActionCode", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a0811b59a483e5490dec2da1b7aabc58d", null ],
+    [ "HasLongpressMapping", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#ab28559a0a2c6f33124147cd777e8f711", null ],
+    [ "HasLongpressMapping_Internal", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a3e4d7b1014ce9a6179df5f1cf077ddd8", null ],
+    [ "Load", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#aa2564ff1fae41aff997ac8ab2b24bd00", null ],
+    [ "LoadKeymap", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#ad5eb6f4338ca5fa8eb82d8d67d6035f2", null ],
+    [ "MapAction", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a19e9d3edf2b8f9da94d1e762cf3b247e", null ],
+    [ "MapWindowActions", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a6042cb88ec990a11e51d4d7cec175bf3", null ],
+    [ "operator=", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a28f6a0e94f5cc65ce8e44a5a9c9ff046", null ],
+    [ "RegisterMapper", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a4e329499d570f24b259c06af81f9b13d", null ],
+    [ "RemoveDevice", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a08a5d9afe5fc45a3332b6b5d88018fd5", null ],
+    [ "TranslateString", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a6f72278ead18d9d29b001515228c4ee2", null ],
+    [ "UnregisterMapper", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#adf2e69b023168585bab96ad02064bc68", null ],
+    [ "EVENTCLIENT::CEventButtonState", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#ab592463949e682f818d599da5742436d", null ],
+    [ "m_buttonMappers", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a519efc648d96c5cdee4791b1c56401ff", null ],
+    [ "m_deviceList", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#a4f2abc3f0b629d1172e964f16bc76c23", null ],
+    [ "m_translatorMap", "d2/d36/class_k_o_d_i_1_1_k_e_y_m_a_p_1_1_c_button_translator.html#aa11198e3fd6e3e905dd0e0a353203412", null ]
+];

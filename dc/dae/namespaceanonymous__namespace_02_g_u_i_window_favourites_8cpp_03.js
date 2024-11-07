@@ -1,0 +1,5 @@
+var namespaceanonymous__namespace_02_g_u_i_window_favourites_8cpp_03 =
+[
+    [ "CVideoPlayActionProcessor", "de/ded/classanonymous__namespace_02_g_u_i_window_favourites_8cpp_03_1_1_c_video_play_action_processor.html", "de/ded/classanonymous__namespace_02_g_u_i_window_favourites_8cpp_03_1_1_c_video_play_action_processor" ],
+    [ "CVideoSelectActionProcessor", "d8/d49/classanonymous__namespace_02_g_u_i_window_favourites_8cpp_03_1_1_c_video_select_action_processor.html", "d8/d49/classanonymous__namespace_02_g_u_i_window_favourites_8cpp_03_1_1_c_video_select_action_processor" ]
+];

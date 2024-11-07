@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['rangeselector_0',['RangeSelector',['../dc/d9e/class_c_g_u_i_slider_control.html#a1043488d00a9576561cc22c0845f037e',1,'CGUISliderControl']]],
+  ['rconsoleid_1',['RConsoleID',['../df/dcc/namespace_k_o_d_i_1_1_r_e_t_r_o.html#a2cdb95a2c1f9bf2c782befec5aafeb7a',1,'KODI::RETRO']]],
+  ['reactivate_2',['Reactivate',['../d7/dbc/_g_u_i_dialog_addon_info_8h.html#af3004ee1a6d236a735b2c1e4cc101f93',1,'GUIDialogAddonInfo.h']]],
+  ['recurseorphaned_3',['RecurseOrphaned',['../d8/d83/namespace_a_d_d_o_n.html#a826c96d24cb9dbd14c1ffbf7c3ff9add',1,'ADDON']]],
+  ['releasetype_4',['ReleaseType',['../d2/d2f/class_c_album.html#a0f7bd1c4713f7002c546ee666e6bf03c',1,'CAlbum']]],
+  ['render_5fhandle_5',['RENDER_HANDLE',['../df/dcc/namespace_k_o_d_i_1_1_r_e_t_r_o.html#a2806f3ade17d62aa7ff6067a27936661',1,'KODI::RETRO']]],
+  ['render_5forder_6',['RENDER_ORDER',['../d5/d52/_graphic_context_8h.html#a4c1acd5554fdf474410340c47862e45c',1,'GraphicContext.h']]],
+  ['render_5fstate_7',['RENDER_STATE',['../d0/d99/class_k_o_d_i_1_1_r_e_t_r_o_1_1_c_r_p_render_manager.html#adaf45deb0f41a80d7e9107a9240ab984',1,'KODI::RETRO::CRPRenderManager']]],
+  ['render_5fstereo_5fmode_8',['RENDER_STEREO_MODE',['../df/dda/_render_system_types_8h.html#a6dd4c4cfd5779480e3ad237d8eb8ae42',1,'RenderSystemTypes.h']]],
+  ['render_5fstereo_5fview_9',['RENDER_STEREO_VIEW',['../df/dda/_render_system_types_8h.html#a380c659253288d7f13b2f1c2309b5de1',1,'RenderSystemTypes.h']]],
+  ['renderfeature_10',['RENDERFEATURE',['../df/dcc/namespace_k_o_d_i_1_1_r_e_t_r_o.html#ab33193bed6fbd3c7c8497968ddc87ea9',1,'KODI::RETRO']]],
+  ['rendermethod_11',['rendermethod',['../d2/d9d/_linux_renderer_g_l_8h.html#a5fe24eb8283305ce3b9a1b3eb7866460',1,'RenderMethod:&#160;LinuxRendererGL.h'],['../d3/d63/_linux_renderer_g_l_e_s_8h.html#a5fe24eb8283305ce3b9a1b3eb7866460',1,'RenderMethod:&#160;LinuxRendererGLES.h'],['../df/def/_renderer_base_8h.html#a5fe24eb8283305ce3b9a1b3eb7866460',1,'RenderMethod:&#160;RendererBase.h']]],
+  ['rendermethods_12',['RenderMethods',['../d0/d1d/_base_renderer_8h.html#a1d709315636196dbcc752d85df454533',1,'BaseRenderer.h']]],
+  ['renderorder_13',['RenderOrder',['../d5/d0b/_g_u_i_window_8h.html#a739b531258250216de56a131024d13ba',1,'GUIWindow.h']]],
+  ['renderquality_14',['renderquality',['../d2/d9d/_linux_renderer_g_l_8h.html#a4f1ccaa1bf5a9f2eb01b28977be52960',1,'RenderQuality:&#160;LinuxRendererGL.h'],['../d3/d63/_linux_renderer_g_l_e_s_8h.html#a4f1ccaa1bf5a9f2eb01b28977be52960',1,'RenderQuality:&#160;LinuxRendererGLES.h']]],
+  ['renumbermode_15',['RenumberMode',['../dc/dc4/namespace_p_v_r.html#af24349e9a0cea940469d095b696956ab',1,'PVR']]],
+  ['repeatstate_16',['RepeatState',['../dc/d7e/namespace_k_o_d_i_1_1_p_l_a_y_l_i_s_t.html#ab021541f02630089526e76563ce3729e',1,'KODI::PLAYLIST']]],
+  ['resolution_17',['RESOLUTION',['../d9/dbb/_resolution_8h.html#abd0374c748530a64a72872c43b2cc828',1,'Resolution.h']]],
+  ['result_18',['Result',['../da/d9a/class_p_v_r_1_1_c_g_u_i_dialog_p_v_r_guide_search.html#aa7fb58bb91159981a1300d1ce5bc3f97',1,'PVR::CGUIDialogPVRGuideSearch']]],
+  ['returnformat_19',['ReturnFormat',['../dc/dfa/class_c_date_time.html#adc432b4e926b7958b1dd4d015f9c29c8',1,'CDateTime']]],
+  ['rumble_5ftype_20',['RUMBLE_TYPE',['../d8/d79/class_k_o_d_i_1_1_j_o_y_s_t_i_c_k_1_1_c_rumble_generator.html#ad6d52d74579fc3ae475071a3dbbc2108',1,'KODI::JOYSTICK::CRumbleGenerator']]]
+];

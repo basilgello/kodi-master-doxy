@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['ratingmap_0',['RatingMap',['../d9/d95/_video_info_tag_8h.html#adc11e72390bac222f9fca77fd7b5b4e3',1,'VideoInfoTag.h']]],
+  ['raw_5fread_5finfo_1',['RAW_READ_INFO',['../df/d43/my__ntddcdrm_8h.html#a408ea170f90240e986c998915a819968',1,'my_ntddcdrm.h']]],
+  ['rcontrols_2',['rControls',['../dc/d82/class_c_g_u_i_control_group.html#abc0c2aa8799c6faa51576eaea76defef',1,'CGUIControlGroup']]],
+  ['readytodispose_3',['readytodispose',['../dc/d64/_video_buffer_8h.html#af0a2b4138fb4e167e7b5a8036b1a4c6c',1,'ReadyToDispose:&#160;VideoBuffer.h'],['../d8/d70/namespace_v_a_a_p_i.html#a8e52947d442a779e9db1281710d4605f',1,'VAAPI::ReadyToDispose']]],
+  ['record_5fprop_4',['record_prop',['../d6/d8d/namespacedbiplus.html#a368ab2669f2397478fe4542046f23fcc',1,'dbiplus']]],
+  ['recordings_5',['Recordings',['../d3/daf/namespace_p_v_r_1_1_g_u_i.html#a8936392fcdb58b73f5bae595b00d11f7',1,'PVR::GUI']]],
+  ['registrationidentifiertype_6',['RegistrationIdentifierType',['../dd/dc7/namespace_k_o_d_i.html#a36e32346a53b949c90f1d3b4e2e93454',1,'KODI']]],
+  ['relative_5fpointer_5fdirection_7',['RELATIVE_POINTER_DIRECTION',['../d1/d5a/namespace_k_o_d_i_1_1_j_o_y_s_t_i_c_k.html#a9816b86a7e2a688417d0c155b3fb39b3',1,'KODI::JOYSTICK']]],
+  ['releasetype_8',['ReleaseType',['../d2/d2f/class_c_album.html#aba98b39b9d8eb4df5ea1a587b5271700',1,'CAlbum']]],
+  ['releasetypeinfo_9',['ReleaseTypeInfo',['../d8/de8/_album_8cpp.html#a258539093961824e0599b496cfece9ff',1,'Album.cpp']]],
+  ['removehandler_10',['RemoveHandler',['../d3/da0/class_k_o_d_i_1_1_w_i_n_d_o_w_i_n_g_1_1_w_a_y_l_a_n_d_1_1_c_registry.html#a67de8dec2dce026e9272bc9d4b73d426',1,'KODI::WINDOWING::WAYLAND::CRegistry']]],
+  ['renderbufferpoolptr_11',['RenderBufferPoolPtr',['../df/dcc/namespace_k_o_d_i_1_1_r_e_t_r_o.html#ad1e5f34e802b58702cd41f617f704cd1',1,'KODI::RETRO']]],
+  ['renderbufferpoolvector_12',['RenderBufferPoolVector',['../df/dcc/namespace_k_o_d_i_1_1_r_e_t_r_o.html#ab85e8bdff2b148a17864c7267efd2874',1,'KODI::RETRO']]],
+  ['repositorydirlist_13',['RepositoryDirList',['../d8/d83/namespace_a_d_d_o_n.html#a682c8112d831b78d6b2deecb6335ee0e',1,'ADDON']]],
+  ['repositoryptr_14',['RepositoryPtr',['../d8/d83/namespace_a_d_d_o_n.html#a41e51ffa36936b9a66ed91942b431fd8',1,'ADDON']]],
+  ['resolutioninfos_15',['ResolutionInfos',['../d1/db9/class_c_display_settings.html#a404e79e0d0645edd92fdf152f625018c',1,'CDisplaySettings']]],
+  ['rssurls_16',['RssUrls',['../d8/d30/_rss_manager_8h.html#a99222d53b318f188acd26f0947e3345d',1,'RssManager.h']]]
+];
